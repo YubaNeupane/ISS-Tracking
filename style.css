@@ -1,0 +1,20 @@
+#issMap {
+    height: 1000px;
+    z-index: 1;
+}
+
+body {
+    font-family: 'Roboto';
+    background-color: #01032b;
+    margin: 10px, 10px, 10px, 10px;
+    color: rgb(219, 6, 77);
+    overflow: hidden;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.heading {
+    margin-top: 0em;
+}
